@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VMv/+G9ADI=",
+  "dgSpecHash": "XV+ilswNpLc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tfry\\dotnetlearning1\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\tfry\\dotnetlearning1\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tfry\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tfry\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
